@@ -2,6 +2,7 @@ package io.github.dbc;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        // TODO: Print "Hello, World!" to the console using the `System.out.println()` method.
+
     }
 }

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="added the readme.md file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="added some content in the readme.md">
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/dbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/dbc/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660669841482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added some content in the readme.md">
+      <created>1660671105570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660671105570</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +112,8 @@
     <MESSAGE value="added dependency for JUnit 5 in the pom.xml; created a test class called MainTest.java" />
     <MESSAGE value="added maven compiler plugin and maven surefire plugin in the pom.xml" />
     <MESSAGE value="added the readme.md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the readme.md file" />
+    <MESSAGE value="added some content in the readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some content in the readme.md" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
