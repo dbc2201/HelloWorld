@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="created the first test case">
+    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="created the third test case">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/io/github/dbc/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/github/dbc/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,45 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="io.github.dbc" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest">
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.dbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.dbc" />
+      <option name="MAIN_CLASS_NAME" value="io.github.dbc.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testFirstLetterIsCapital" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.dbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.dbc" />
+      <option name="MAIN_CLASS_NAME" value="io.github.dbc.MainTest" />
+      <option name="METHOD_NAME" value="testFirstLetterIsCapital" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.testFirstLetterIsCapital" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -143,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660673075347</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="created the third test case">
+      <created>1660673138738</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660673138738</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +214,8 @@
     <MESSAGE value="added the task in the readme.md" />
     <MESSAGE value="created the first test case" />
     <MESSAGE value="created the second test case" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the second test case" />
+    <MESSAGE value="created the third test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the third test case" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

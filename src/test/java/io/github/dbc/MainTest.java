@@ -58,4 +58,13 @@ class MainTest {
         assertEquals("H", firstCharacterAsString, "The 'H' in \"Hello, World!\" should be capitalized!");
     }
 
+    @Test
+    @DisplayName("W should be capital.")
+    @Order(4)
+    void testOutputContainsW() {
+        String wCharacterAsString = output.substring(6, 7);
+        assertEquals("w", wCharacterAsString,
+                "The 'W' in \"Hello, World!\" should be capitalized!");
+    }
+
 }
