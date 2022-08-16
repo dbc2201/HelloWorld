@@ -11,6 +11,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 class MainTest {
@@ -41,4 +42,12 @@ class MainTest {
         assertEquals(expectedClassName, actualClassName, "The name of the class should be \"Main\"." +
                 "Please don't change the name of the class.");
     }
+
+    @Test
+    @DisplayName("Something should be printed on the console.")
+    @Order(2)
+    void testSomething() {
+        assertTrue(output.length() > 0, "No output was printed. Please check the code for any errors.");
+    }
+
 }

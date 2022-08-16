@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="added the task in the readme.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="created the first test case">
       <change beforePath="$PROJECT_DIR$/src/test/java/io/github/dbc/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/github/dbc/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
