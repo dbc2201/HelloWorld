@@ -20,8 +20,11 @@ Write the `Hello, World!` program in Java.
 
 ### Task
 
-1. Open the [source code file](src/main/java/io/github/dbc/Main.java) and complete the task written in the TODO comment.
-2. Open the [test cases file](src/test/java/io/github/dbc/MainTest.java) and run the test cases to verify your source
+1. Fork the repository by clicking on the `Fork` button.
+2. Clone the repository to your computer using
+   IntelliJ. ([How-To?](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html#clone-from-GitHub))
+3. Open the [source code file](src/main/java/io/github/dbc/Main.java) and complete the task written in the TODO comment.
+4. Open the [test cases file](src/test/java/io/github/dbc/MainTest.java) and run the test cases to verify your source
    code.
 
 ---
