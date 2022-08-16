@@ -67,11 +67,20 @@ class MainTest {
     }
 
     @Test
-    @DisplayName("Space between the 'o' and the 'W'.")
+    @DisplayName("There should be a space between the 'o' and the 'W'.")
     @Order(5)
     void testSpaceBetweenHAndW() {
         String spaceBetweenHAndW = output.substring(5, 6);
         assertEquals(" ", spaceBetweenHAndW, "There should be a space between the 'H' and the 'W'!");
+    }
+
+    @Test
+    @DisplayName("There should be an exclamation mark '!' at the end.")
+    @Order(6)
+    void testLastLetterIsExclamationMark() {
+        String lastCharacterAsString = output.substring(output.length() - 1);
+        assertEquals("!", lastCharacterAsString,
+                "There should be an exclamation mark '!' at the end of the output!");
     }
 
 }
