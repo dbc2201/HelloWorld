@@ -20,7 +20,7 @@ Write the `Hello, World!` program in Java.
 
 ### Task
 
-1. .
+1. Open the [source code file](src/main/java/io/github/dbc/Main.java) and complete the task written in the TODO comment.
 2. .
 
 ---
