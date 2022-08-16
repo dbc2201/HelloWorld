@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="added the task in readme.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="220ee427-43a3-4513-8d3e-209f9e497364" name="Changes" comment="update the tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660673986933</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update the tasks">
+      <created>1660674768376</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660674768376</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,7 +267,8 @@
     <MESSAGE value="created the seventh test case" />
     <MESSAGE value="fixed the test cases" />
     <MESSAGE value="added the task in readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the task in readme.md" />
+    <MESSAGE value="update the tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the tasks" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
