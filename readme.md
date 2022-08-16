@@ -21,7 +21,8 @@ Write the `Hello, World!` program in Java.
 ### Task
 
 1. Open the [source code file](src/main/java/io/github/dbc/Main.java) and complete the task written in the TODO comment.
-2. .
+2. Open the [test cases file](src/test/java/io/github/dbc/MainTest.java) and run the test cases to verify your source
+   code.
 
 ---
 
