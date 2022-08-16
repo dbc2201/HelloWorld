@@ -83,4 +83,11 @@ class MainTest {
                 "There should be an exclamation mark '!' at the end of the output!");
     }
 
+    @Test
+    @DisplayName("The output should be exactly \"Hello, World!\"")
+    @Order(7)
+    void testOutputContent() {
+        assertTrue(output.matches("Hello, World!"), "The output should be exactly \"Hello, World!\"");
+    }
+
 }
