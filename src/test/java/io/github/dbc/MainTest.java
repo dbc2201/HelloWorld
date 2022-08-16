@@ -50,4 +50,12 @@ class MainTest {
         assertTrue(output.length() > 0, "No output was printed. Please check the code for any errors.");
     }
 
+    @Test
+    @DisplayName("H should be capital.")
+    @Order(3)
+    void testFirstLetterIsCapital() {
+        String firstCharacterAsString = output.substring(0, 1);
+        assertEquals("H", firstCharacterAsString, "The 'H' in \"Hello, World!\" should be capitalized!");
+    }
+
 }

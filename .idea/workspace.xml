@@ -108,7 +108,42 @@
       <option name="project" value="LOCAL" />
       <updated>1660672295417</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="created the first test case">
+      <created>1660672856157</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660672856157</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created the first test case">
+      <created>1660672892729</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660672892729</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created the first test case">
+      <created>1660672906958</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660672906958</updated>
+    </task>
+    <task id="LOCAL-00011" summary="created the second test case">
+      <created>1660673068819</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660673068819</updated>
+    </task>
+    <task id="LOCAL-00012" summary="created the second test case">
+      <created>1660673075347</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660673075347</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,8 +165,9 @@
     <MESSAGE value="added some content in the readme.md" />
     <MESSAGE value="added a TODO for the task" />
     <MESSAGE value="added the task in the readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the task in the readme.md" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="created the first test case" />
+    <MESSAGE value="created the second test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the second test case" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
