@@ -63,8 +63,15 @@ class MainTest {
     @Order(4)
     void testOutputContainsW() {
         String wCharacterAsString = output.substring(6, 7);
-        assertEquals("w", wCharacterAsString,
-                "The 'W' in \"Hello, World!\" should be capitalized!");
+        assertEquals("W", wCharacterAsString, "The 'W' in \"Hello, World!\" should be capitalized!");
+    }
+
+    @Test
+    @DisplayName("Space between the 'o' and the 'W'.")
+    @Order(5)
+    void testSpaceBetweenHAndW() {
+        String spaceBetweenHAndW = output.substring(5, 6);
+        assertEquals(" ", spaceBetweenHAndW, "There should be a space between the 'H' and the 'W'!");
     }
 
 }
